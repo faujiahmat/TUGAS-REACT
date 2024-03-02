@@ -1,3 +1,4 @@
+// eslint-disable-next-line react/prop-types
 export default function CardProduct({ item }) {
   return (
     <div className="overflow-hidden rounded-2xl bg-red-200 w-80 text-[#1d1d1d] ">
